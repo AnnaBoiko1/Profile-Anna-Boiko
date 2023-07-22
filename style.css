@@ -78,11 +78,12 @@ b {
 
 li {
   display: inline-block;
+  /* display: flex
+  flex-derection:  row */
   padding: 0px 10px;
 }
 
 .container2, .container1 {
-
   /* border: 6px solid #7922CC;
   border-radius: 25px; */
   border-radius: 30px;
